@@ -1,5 +1,5 @@
 /* Lonely Integer */
-/*  */
+/* https://www.hackerrank.com/challenges/lonely-integer/problem?isFullScreen=true */
 #include<stdio.h>
 int main()
 {
